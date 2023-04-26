@@ -27,7 +27,7 @@ export function UserHandler({}) {
             }
           />
           <button className="refresh-button" onClick={getUserCall}>
-            refresh
+            Refresh
           </button>
         </div>
       )}
